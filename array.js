@@ -19,7 +19,7 @@ function CountingEvenOdd(arr, arr_size)
             even_count++;
     }
  
-         console.log();("Number of even numbers = " + even_count
+         console.log("Number of even numbers = " + even_count
         + "<br>" + "Number of odd numbers = " + odd_count);
 }
  
