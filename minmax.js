@@ -40,7 +40,7 @@
 		var arr = [1000, 11, 445, 1, 330, 3000];
 		var arr_size = 6;
 		minmax = getMinMax(arr, arr_size);
-		document.write("\nMinimum element is " ,minmax.min +"<br>");
-		document.write("\nMaximum element is " , minmax.max);
+		console.log("\nMinimum element is " ,minmax.min +"<br>");
+		console.log("\nMaximum element is " , minmax.max);
 
 </script>
